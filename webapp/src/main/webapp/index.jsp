@@ -25,6 +25,12 @@
     <input type="text" placeholder="Enter Aadhar Number" name="aadhar" id="aadhar" required>
     <br>
 
+     <label for="aadhar"><b>Electricity Bill</b></label>
+    <input type="text" placeholder="Electricity Bill" name="aadhar" id="aadhar" required>
+    <br>
+
+
+
     <label for="mother"><b>Mother Name</b></label>
     <input type="text" placeholder="Mother Name" name="mother" id="mother" required>
     <br>
