@@ -29,6 +29,9 @@
     <input type="text" placeholder="Electricity Bill" name="aadhar" id="aadhar" required>
     <br>
 
+     <label for="IGL"><b>IGL Bill</b></label>
+    <input type="text" placeholder="IGL" name="IGL" id="IGL" required>
+    <br>
 
 
     <label for="mother"><b>Mother Name</b></label>
