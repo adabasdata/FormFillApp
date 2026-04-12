@@ -57,6 +57,12 @@
     <label for="G.Father"><b>G.Father Name</b></label>
     <input type="text" placeholder="G.Father Name" name="G.Father" id="G.Father" required>
     <br>
+    
+     <label for="Bank"><b>Bank Name</b></label>
+    <input type="text" placeholder="Bank Name" name="Bank" id="Bank" required>
+    <br>
+
+
 
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
