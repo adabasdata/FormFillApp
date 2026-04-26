@@ -2,6 +2,7 @@
   <div class="container">
     <h1>Welcome!!! Saidemy DevOps Student Registration Form!!!</h1>
     <p>Please fill in this form for registration@@@!!!%%%%%</p>
+    <p> apply for visa</p>
     <hr>
     <br>  
 
