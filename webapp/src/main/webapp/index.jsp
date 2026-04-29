@@ -5,6 +5,7 @@
     <p> apply for visa</p>
     <p> register your company</p>
     <p> find jobs asap </p> <p> i want to apply for Devops role</p>
+    <p> Focus Determinaton Perseverance Efforts Concentration Practice GoodIntent Confidence </p>
     <hr>
     <br>  
 
