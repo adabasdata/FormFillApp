@@ -4,8 +4,7 @@
     <p>Please fill in this form for registration@@@!!!%%%%%</p>
     <p> apply for visa</p>
     <p> register your company</p>
-    <p> find job</p>
-    <p> i want to apply for Devops role</p>
+    <p> find jobs asap </p> <p> i want to apply for Devops role</p>
     <hr>
     <br>  
 
